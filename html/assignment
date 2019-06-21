@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>MY first page</title>
+</head>
+<body>
+	<h1>ANMOL AGARWAL</h1>
+	<a href="https://www.youtube.com/channel/UCGk75hwbC1qfb9uXJ0C2AZA"One>
+	</a>
+	<a href="https://www.youtube.com/channel/UCGk75hwbC1qfb9uXJ0C2AZA"Two>
+	</a>
+	<a href="https://www.youtube.com/channel/UCGk75hwbC1qfb9uXJ0C2AZA"Three>
+	</a>
+	<a href="https://www.youtube.com/channel/UCGk75hwbC1qfb9uXJ0C2AZA"Four>
+	</a>
+	<br>
+	<h3>Favorite Foods</h3>
+	<ul>
+		<li>Mangoes</li>
+		<li>Icecream</li>
+		<li>Choclate</li>
+		<li>cake</li>
+	</ul>
+	<h3>Achievements</h3>
+	<meter min="0" max="100" value="100" >Progress in this course(100%)</meter><br>
+	<meter min="0" max="100" value="100" >Progress in the Specialization capstone(20%)</meter><br>
+	<meter min="0" max="100" value="100" >Progress in life goals(40%)</meter><br>
+    <h3>More About Me</h3>
+    <details><summary>jinga lala</summary> My Childhood</details>
+</body>
+</html>

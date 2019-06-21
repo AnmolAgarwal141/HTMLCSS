@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>MY first page</title>
+</head>
+<body>
+<main>
+<h1>BAAP OF LOSER</h1>
+<h3>Members:</h3>
+<ul>
+<li>ANMOL</li>
+<li>HIMANSHU</li>
+</ul>
+<div>our you tube channel</div>
+<img src="Frame_20180112_00_01_40.png" width="500px" height="100px" alt="channel image"/>
+</main>
+<footer>
+<p>still in search</p>
+</footer>
+</body>
+</html>
